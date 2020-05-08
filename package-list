@@ -1,0 +1,10 @@
+com.gpch.mongo
+com.gpch.mongo.auth.controllers
+com.gpch.mongo.controller
+com.gpch.mongo.iCal
+com.gpch.mongo.model
+com.gpch.mongo.repository
+com.gpch.mongo.security
+com.gpch.mongo.service
+com.gpch.mongo.utils
+constraints
