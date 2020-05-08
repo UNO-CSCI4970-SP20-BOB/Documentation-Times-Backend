@@ -3,4 +3,4 @@
 > This repository contains all auto-generated Java Docs from the Times-Backend application.
 
 ## Usage
-> In order to access the documentation, please download or clone this repository and access overview-summary.html as the entry point to the documentation.
+> In order to access the documentation, please download or clone this repository and access index.html as the entry point to the documentation.
